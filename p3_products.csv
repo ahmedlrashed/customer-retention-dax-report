@@ -1,0 +1,398 @@
+ProductKey,EnglishProductName,StandardCost,FinishedGoodsFlag,Color,ListPrice,Size,ProductLine,DealerPrice,Class,Style,ModelName,StartDate,EndDate,Status,Subcategory
+210,"HL Road Frame - Black, 58",,TRUE,Black,,58,R,,H,U,HL Road Frame,6/1/1998 0:00,,Current,Road Frames
+211,"HL Road Frame - Red, 58",,TRUE,Red,,58,R,,H,U,HL Road Frame,6/1/1998 0:00,,Current,Road Frames
+212,"Sport-100 Helmet, Red",12.0278,TRUE,Red,33.6442,,S,20.1865,,,Sport-100,7/1/2001 0:00,6/30/2002 0:00,,Helmets
+213,"Sport-100 Helmet, Red",13.8782,TRUE,Red,33.6442,,S,20.1865,,,Sport-100,7/1/2002 0:00,6/30/2003 0:00,,Helmets
+214,"Sport-100 Helmet, Red",13.0863,TRUE,Red,34.99,,S,20.994,,,Sport-100,7/1/2003 0:00,,Current,Helmets
+215,"Sport-100 Helmet, Black",12.0278,TRUE,Black,33.6442,,S,20.1865,,,Sport-100,7/1/2001 0:00,6/30/2002 0:00,,Helmets
+216,"Sport-100 Helmet, Black",13.8782,TRUE,Black,33.6442,,S,20.1865,,,Sport-100,7/1/2002 0:00,6/30/2003 0:00,,Helmets
+217,"Sport-100 Helmet, Black",13.0863,TRUE,Black,34.99,,S,20.994,,,Sport-100,7/1/2003 0:00,,Current,Helmets
+218,"Mountain Bike Socks, M",3.3963,TRUE,White,9.5,M,M,5.7,,U,Mountain Bike Socks,7/1/2001 0:00,6/30/2002 0:00,,Socks
+219,"Mountain Bike Socks, L",3.3963,TRUE,White,9.5,L,M,5.7,,U,Mountain Bike Socks,7/1/2001 0:00,6/30/2002 0:00,,Socks
+220,"Sport-100 Helmet, Blue",12.0278,TRUE,Blue,33.6442,,S,20.1865,,,Sport-100,7/1/2001 0:00,6/30/2002 0:00,,Helmets
+221,"Sport-100 Helmet, Blue",13.8782,TRUE,Blue,33.6442,,S,20.1865,,,Sport-100,7/1/2002 0:00,6/30/2003 0:00,,Helmets
+222,"Sport-100 Helmet, Blue",13.0863,TRUE,Blue,34.99,,S,20.994,,,Sport-100,7/1/2003 0:00,,Current,Helmets
+223,AWC Logo Cap,5.7052,TRUE,Multi,8.6442,,S,5.1865,,U,Cycling Cap,7/1/2001 0:00,6/30/2002 0:00,,Caps
+224,AWC Logo Cap,5.2297,TRUE,Multi,8.6442,,S,5.1865,,U,Cycling Cap,7/1/2002 0:00,6/30/2003 0:00,,Caps
+225,AWC Logo Cap,6.9223,TRUE,Multi,8.99,,S,5.394,,U,Cycling Cap,7/1/2003 0:00,,Current,Caps
+226,"Long-Sleeve Logo Jersey, S",31.7244,TRUE,Multi,48.0673,S,S,28.8404,,U,Long-Sleeve Logo Jersey,7/1/2001 0:00,6/30/2002 0:00,,Jerseys
+227,"Long-Sleeve Logo Jersey, S",29.0807,TRUE,Multi,48.0673,S,S,28.8404,,U,Long-Sleeve Logo Jersey,7/1/2002 0:00,6/30/2003 0:00,,Jerseys
+228,"Long-Sleeve Logo Jersey, S",38.4923,TRUE,Multi,49.99,S,S,29.994,,U,Long-Sleeve Logo Jersey,7/1/2003 0:00,,Current,Jerseys
+229,"Long-Sleeve Logo Jersey, M",31.7244,TRUE,Multi,48.0673,M,S,28.8404,,U,Long-Sleeve Logo Jersey,7/1/2001 0:00,6/30/2002 0:00,,Jerseys
+230,"Long-Sleeve Logo Jersey, M",29.0807,TRUE,Multi,48.0673,M,S,28.8404,,U,Long-Sleeve Logo Jersey,7/1/2002 0:00,6/30/2003 0:00,,Jerseys
+231,"Long-Sleeve Logo Jersey, M",38.4923,TRUE,Multi,49.99,M,S,29.994,,U,Long-Sleeve Logo Jersey,7/1/2003 0:00,,Current,Jerseys
+232,"Long-Sleeve Logo Jersey, L",31.7244,TRUE,Multi,48.0673,L,S,28.8404,,U,Long-Sleeve Logo Jersey,7/1/2001 0:00,6/30/2002 0:00,,Jerseys
+233,"Long-Sleeve Logo Jersey, L",29.0807,TRUE,Multi,48.0673,L,S,28.8404,,U,Long-Sleeve Logo Jersey,7/1/2002 0:00,6/30/2003 0:00,,Jerseys
+234,"Long-Sleeve Logo Jersey, L",38.4923,TRUE,Multi,49.99,L,S,29.994,,U,Long-Sleeve Logo Jersey,7/1/2003 0:00,,Current,Jerseys
+235,"Long-Sleeve Logo Jersey, XL",31.7244,TRUE,Multi,48.0673,XL,S,28.8404,,U,Long-Sleeve Logo Jersey,7/1/2001 0:00,6/30/2002 0:00,,Jerseys
+236,"Long-Sleeve Logo Jersey, XL",29.0807,TRUE,Multi,48.0673,XL,S,28.8404,,U,Long-Sleeve Logo Jersey,7/1/2002 0:00,6/30/2003 0:00,,Jerseys
+237,"Long-Sleeve Logo Jersey, XL",38.4923,TRUE,Multi,49.99,XL,S,29.994,,U,Long-Sleeve Logo Jersey,7/1/2003 0:00,,Current,Jerseys
+238,"HL Road Frame - Red, 62",747.9682,TRUE,Red,1263.4598,62,R,758.0759,H,U,HL Road Frame,7/1/2001 0:00,6/30/2002 0:00,,Road Frames
+239,"HL Road Frame - Red, 62",722.2568,TRUE,Red,1301.3636,62,R,780.8182,H,U,HL Road Frame,7/1/2002 0:00,6/30/2003 0:00,,Road Frames
+240,"HL Road Frame - Red, 62",868.6342,TRUE,Red,1431.5,62,R,858.9,H,U,HL Road Frame,7/1/2003 0:00,,Current,Road Frames
+241,"HL Road Frame - Red, 44",747.9682,TRUE,Red,1263.4598,44,R,758.0759,H,U,HL Road Frame,7/1/2001 0:00,6/30/2002 0:00,,Road Frames
+242,"HL Road Frame - Red, 44",722.2568,TRUE,Red,1301.3636,44,R,780.8182,H,U,HL Road Frame,7/1/2002 0:00,6/30/2003 0:00,,Road Frames
+243,"HL Road Frame - Red, 44",868.6342,TRUE,Red,1431.5,44,R,858.9,H,U,HL Road Frame,7/1/2003 0:00,,Current,Road Frames
+244,"HL Road Frame - Red, 48",747.9682,TRUE,Red,1263.4598,48,R,758.0759,H,U,HL Road Frame,7/1/2001 0:00,6/30/2002 0:00,,Road Frames
+245,"HL Road Frame - Red, 48",722.2568,TRUE,Red,1301.3636,48,R,780.8182,H,U,HL Road Frame,7/1/2002 0:00,6/30/2003 0:00,,Road Frames
+246,"HL Road Frame - Red, 48",868.6342,TRUE,Red,1431.5,48,R,858.9,H,U,HL Road Frame,7/1/2003 0:00,,Current,Road Frames
+247,"HL Road Frame - Red, 52",747.9682,TRUE,Red,1263.4598,52,R,758.0759,H,U,HL Road Frame,7/1/2001 0:00,6/30/2002 0:00,,Road Frames
+248,"HL Road Frame - Red, 52",722.2568,TRUE,Red,1301.3636,52,R,780.8182,H,U,HL Road Frame,7/1/2002 0:00,6/30/2003 0:00,,Road Frames
+249,"HL Road Frame - Red, 52",868.6342,TRUE,Red,1431.5,52,R,858.9,H,U,HL Road Frame,7/1/2003 0:00,,Current,Road Frames
+250,"HL Road Frame - Red, 56",747.9682,TRUE,Red,1263.4598,56,R,758.0759,H,U,HL Road Frame,7/1/2001 0:00,6/30/2002 0:00,,Road Frames
+251,"HL Road Frame - Red, 56",722.2568,TRUE,Red,1301.3636,56,R,780.8182,H,U,HL Road Frame,7/1/2002 0:00,6/30/2003 0:00,,Road Frames
+252,"HL Road Frame - Red, 56",868.6342,TRUE,Red,1431.5,56,R,858.9,H,U,HL Road Frame,7/1/2003 0:00,,Current,Road Frames
+253,"LL Road Frame - Black, 58",176.1997,TRUE,Black,297.6346,58,R,178.5808,L,U,LL Road Frame,7/1/2001 0:00,6/30/2002 0:00,,Road Frames
+254,"LL Road Frame - Black, 58",170.1428,TRUE,Black,306.5636,58,R,183.9382,L,U,LL Road Frame,7/1/2002 0:00,6/30/2003 0:00,,Road Frames
+255,"LL Road Frame - Black, 58",204.6251,TRUE,Black,337.22,58,R,202.332,L,U,LL Road Frame,7/1/2003 0:00,,Current,Road Frames
+256,"LL Road Frame - Black, 60",176.1997,TRUE,Black,297.6346,60,R,178.5808,L,U,LL Road Frame,7/1/2001 0:00,6/30/2002 0:00,,Road Frames
+257,"LL Road Frame - Black, 60",170.1428,TRUE,Black,306.5636,60,R,183.9382,L,U,LL Road Frame,7/1/2002 0:00,6/30/2003 0:00,,Road Frames
+258,"LL Road Frame - Black, 60",204.6251,TRUE,Black,337.22,60,R,202.332,L,U,LL Road Frame,7/1/2003 0:00,,Current,Road Frames
+259,"LL Road Frame - Black, 62",176.1997,TRUE,Black,297.6346,62,R,178.5808,L,U,LL Road Frame,7/1/2001 0:00,6/30/2002 0:00,,Road Frames
+260,"LL Road Frame - Black, 62",170.1428,TRUE,Black,306.5636,62,R,183.9382,L,U,LL Road Frame,7/1/2002 0:00,6/30/2003 0:00,,Road Frames
+261,"LL Road Frame - Black, 62",204.6251,TRUE,Black,337.22,62,R,202.332,L,U,LL Road Frame,7/1/2003 0:00,,Current,Road Frames
+262,"LL Road Frame - Red, 44",181.4857,TRUE,Red,306.5636,44,R,183.9382,L,U,LL Road Frame,7/1/2001 0:00,6/30/2002 0:00,,Road Frames
+263,"LL Road Frame - Red, 44",187.1571,TRUE,Red,337.22,44,R,202.332,L,U,LL Road Frame,7/1/2002 0:00,6/30/2003 0:00,,Road Frames
+264,"LL Road Frame - Red, 48",181.4857,TRUE,Red,306.5636,48,R,183.9382,L,U,LL Road Frame,7/1/2001 0:00,6/30/2002 0:00,,Road Frames
+265,"LL Road Frame - Red, 48",187.1571,TRUE,Red,337.22,48,R,202.332,L,U,LL Road Frame,7/1/2002 0:00,6/30/2003 0:00,,Road Frames
+266,"LL Road Frame - Red, 52",181.4857,TRUE,Red,306.5636,52,R,183.9382,L,U,LL Road Frame,7/1/2001 0:00,6/30/2002 0:00,,Road Frames
+267,"LL Road Frame - Red, 52",187.1571,TRUE,Red,337.22,52,R,202.332,L,U,LL Road Frame,7/1/2002 0:00,6/30/2003 0:00,,Road Frames
+268,"LL Road Frame - Red, 58",181.4857,TRUE,Red,306.5636,58,R,183.9382,L,U,LL Road Frame,7/1/2001 0:00,6/30/2002 0:00,,Road Frames
+269,"LL Road Frame - Red, 58",187.1571,TRUE,Red,337.22,58,R,202.332,L,U,LL Road Frame,7/1/2002 0:00,6/30/2003 0:00,,Road Frames
+270,"LL Road Frame - Red, 60",181.4857,TRUE,Red,306.5636,60,R,183.9382,L,U,LL Road Frame,7/1/2001 0:00,6/30/2002 0:00,,Road Frames
+271,"LL Road Frame - Red, 60",187.1571,TRUE,Red,337.22,60,R,202.332,L,U,LL Road Frame,7/1/2002 0:00,6/30/2003 0:00,,Road Frames
+272,"LL Road Frame - Red, 62",181.4857,TRUE,Red,306.5636,62,R,183.9382,L,U,LL Road Frame,7/1/2001 0:00,6/30/2002 0:00,,Road Frames
+273,"LL Road Frame - Red, 62",187.1571,TRUE,Red,337.22,62,R,202.332,L,U,LL Road Frame,7/1/2002 0:00,6/30/2003 0:00,,Road Frames
+274,"ML Road Frame - Red, 44",352.1394,TRUE,Red,594.83,44,R,356.898,M,U,ML Road Frame,7/1/2001 0:00,6/30/2002 0:00,,Road Frames
+275,"ML Road Frame - Red, 48",352.1394,TRUE,Red,594.83,48,R,356.898,M,U,ML Road Frame,7/1/2001 0:00,6/30/2002 0:00,,Road Frames
+276,"ML Road Frame - Red, 52",352.1394,TRUE,Red,594.83,52,R,356.898,M,U,ML Road Frame,7/1/2001 0:00,6/30/2002 0:00,,Road Frames
+277,"ML Road Frame - Red, 58",352.1394,TRUE,Red,594.83,58,R,356.898,M,U,ML Road Frame,7/1/2001 0:00,6/30/2002 0:00,,Road Frames
+278,"ML Road Frame - Red, 60",352.1394,TRUE,Red,594.83,60,R,356.898,M,U,ML Road Frame,7/1/2001 0:00,6/30/2002 0:00,,Road Frames
+279,"LL Road Frame - Black, 44",176.1997,TRUE,Black,297.6346,44,R,178.5808,L,U,LL Road Frame,7/1/2001 0:00,6/30/2002 0:00,,Road Frames
+280,"LL Road Frame - Black, 44",170.1428,TRUE,Black,306.5636,44,R,183.9382,L,U,LL Road Frame,7/1/2002 0:00,6/30/2003 0:00,,Road Frames
+281,"LL Road Frame - Black, 44",204.6251,TRUE,Black,337.22,44,R,202.332,L,U,LL Road Frame,7/1/2003 0:00,,Current,Road Frames
+282,"LL Road Frame - Black, 48",176.1997,TRUE,Black,297.6346,48,R,178.5808,L,U,LL Road Frame,7/1/2001 0:00,6/30/2002 0:00,,Road Frames
+283,"LL Road Frame - Black, 48",170.1428,TRUE,Black,306.5636,48,R,183.9382,L,U,LL Road Frame,7/1/2002 0:00,6/30/2003 0:00,,Road Frames
+284,"LL Road Frame - Black, 48",204.6251,TRUE,Black,337.22,48,R,202.332,L,U,LL Road Frame,7/1/2003 0:00,,Current,Road Frames
+285,"LL Road Frame - Black, 52",176.1997,TRUE,Black,297.6346,52,R,178.5808,L,U,LL Road Frame,7/1/2001 0:00,6/30/2002 0:00,,Road Frames
+286,"LL Road Frame - Black, 52",170.1428,TRUE,Black,306.5636,52,R,183.9382,L,U,LL Road Frame,7/1/2002 0:00,6/30/2003 0:00,,Road Frames
+287,"LL Road Frame - Black, 52",204.6251,TRUE,Black,337.22,52,R,202.332,L,U,LL Road Frame,7/1/2003 0:00,,Current,Road Frames
+288,"HL Mountain Frame - Silver, 42",623.8403,TRUE,Silver,1204.3248,42,M,722.5949,H,U,HL Mountain Frame,7/1/2001 0:00,6/30/2002 0:00,,Mountain Frames
+289,"HL Mountain Frame - Silver, 42",660.9142,TRUE,Silver,1240.4545,42,M,744.2727,H,U,HL Mountain Frame,7/1/2002 0:00,6/30/2003 0:00,,Mountain Frames
+290,"HL Mountain Frame - Silver, 42",747.2002,TRUE,Silver,1364.5,42,M,818.7,H,U,HL Mountain Frame,7/1/2003 0:00,,Current,Mountain Frames
+291,"HL Mountain Frame - Silver, 44",706.811,TRUE,Silver,1364.5,44,M,818.7,H,U,HL Mountain Frame,7/1/2001 0:00,6/30/2002 0:00,,Mountain Frames
+292,"HL Mountain Frame - Silver, 48",706.811,TRUE,Silver,1364.5,48,M,818.7,H,U,HL Mountain Frame,7/1/2001 0:00,6/30/2002 0:00,,Mountain Frames
+293,"HL Mountain Frame - Silver, 46",623.8403,TRUE,Silver,1204.3248,46,M,722.5949,H,U,HL Mountain Frame,7/1/2001 0:00,6/30/2002 0:00,,Mountain Frames
+294,"HL Mountain Frame - Silver, 46",660.9142,TRUE,Silver,1240.4545,46,M,744.2727,H,U,HL Mountain Frame,7/1/2002 0:00,6/30/2003 0:00,,Mountain Frames
+295,"HL Mountain Frame - Silver, 46",747.2002,TRUE,Silver,1364.5,46,M,818.7,H,U,HL Mountain Frame,7/1/2003 0:00,,Current,Mountain Frames
+296,"HL Mountain Frame - Black, 42",617.0281,TRUE,Black,1191.1739,42,M,714.7043,H,U,HL Mountain Frame,7/1/2001 0:00,6/30/2002 0:00,,Mountain Frames
+297,"HL Mountain Frame - Black, 42",653.6971,TRUE,Black,1226.9091,42,M,736.1455,H,U,HL Mountain Frame,7/1/2002 0:00,6/30/2003 0:00,,Mountain Frames
+298,"HL Mountain Frame - Black, 42",739.041,TRUE,Black,1349.6,42,M,809.76,H,U,HL Mountain Frame,7/1/2003 0:00,,Current,Mountain Frames
+299,"HL Mountain Frame - Black, 44",699.0928,TRUE,Black,1349.6,44,M,809.76,H,U,HL Mountain Frame,7/1/2001 0:00,6/30/2002 0:00,,Mountain Frames
+300,"HL Mountain Frame - Black, 48",699.0928,TRUE,Black,1349.6,48,M,809.76,H,U,HL Mountain Frame,7/1/2001 0:00,6/30/2002 0:00,,Mountain Frames
+301,"HL Mountain Frame - Black, 46",617.0281,TRUE,Black,1191.1739,46,M,714.7043,H,U,HL Mountain Frame,7/1/2001 0:00,6/30/2002 0:00,,Mountain Frames
+302,"HL Mountain Frame - Black, 46",653.6971,TRUE,Black,1226.9091,46,M,736.1455,H,U,HL Mountain Frame,7/1/2002 0:00,6/30/2003 0:00,,Mountain Frames
+303,"HL Mountain Frame - Black, 46",739.041,TRUE,Black,1349.6,46,M,809.76,H,U,HL Mountain Frame,7/1/2003 0:00,,Current,Mountain Frames
+304,"HL Mountain Frame - Black, 38",617.0281,TRUE,Black,1191.1739,38,M,714.7043,H,U,HL Mountain Frame,7/1/2001 0:00,6/30/2002 0:00,,Mountain Frames
+305,"HL Mountain Frame - Black, 38",653.6971,TRUE,Black,1226.9091,38,M,736.1455,H,U,HL Mountain Frame,7/1/2002 0:00,6/30/2003 0:00,,Mountain Frames
+306,"HL Mountain Frame - Black, 38",739.041,TRUE,Black,1349.6,38,M,809.76,H,U,HL Mountain Frame,7/1/2003 0:00,,Current,Mountain Frames
+307,"HL Mountain Frame - Silver, 38",623.8403,TRUE,Silver,1204.3248,38,M,722.5949,H,U,HL Mountain Frame,7/1/2001 0:00,6/30/2002 0:00,,Mountain Frames
+308,"HL Mountain Frame - Silver, 38",660.9142,TRUE,Silver,1240.4545,38,M,744.2727,H,U,HL Mountain Frame,7/1/2002 0:00,6/30/2003 0:00,,Mountain Frames
+309,"HL Mountain Frame - Silver, 38",747.2002,TRUE,Silver,1364.5,38,M,818.7,H,U,HL Mountain Frame,7/1/2003 0:00,,Current,Mountain Frames
+310,"Road-150 Red, 62",2171.2942,TRUE,Red,3578.27,62,R,2146.962,H,U,Road-150,7/1/2001 0:00,6/30/2002 0:00,,Road Bikes
+311,"Road-150 Red, 44",2171.2942,TRUE,Red,3578.27,44,R,2146.962,H,U,Road-150,7/1/2001 0:00,6/30/2002 0:00,,Road Bikes
+312,"Road-150 Red, 48",2171.2942,TRUE,Red,3578.27,48,R,2146.962,H,U,Road-150,7/1/2001 0:00,6/30/2002 0:00,,Road Bikes
+313,"Road-150 Red, 52",2171.2942,TRUE,Red,3578.27,52,R,2146.962,H,U,Road-150,7/1/2001 0:00,6/30/2002 0:00,,Road Bikes
+314,"Road-150 Red, 56",2171.2942,TRUE,Red,3578.27,56,R,2146.962,H,U,Road-150,7/1/2001 0:00,6/30/2002 0:00,,Road Bikes
+315,"Road-450 Red, 58",884.7083,TRUE,Red,1457.99,58,R,874.794,M,U,Road-450,7/1/2001 0:00,6/30/2002 0:00,,Road Bikes
+316,"Road-450 Red, 60",884.7083,TRUE,Red,1457.99,60,R,874.794,M,U,Road-450,7/1/2001 0:00,6/30/2002 0:00,,Road Bikes
+317,"Road-450 Red, 44",884.7083,TRUE,Red,1457.99,44,R,874.794,M,U,Road-450,7/1/2001 0:00,6/30/2002 0:00,,Road Bikes
+318,"Road-450 Red, 48",884.7083,TRUE,Red,1457.99,48,R,874.794,M,U,Road-450,7/1/2001 0:00,6/30/2002 0:00,,Road Bikes
+319,"Road-450 Red, 52",884.7083,TRUE,Red,1457.99,52,R,874.794,M,U,Road-450,7/1/2001 0:00,6/30/2002 0:00,,Road Bikes
+320,"Road-650 Red, 58",413.1463,TRUE,Red,699.0982,58,R,419.4589,L,U,Road-650,7/1/2001 0:00,6/30/2002 0:00,,Road Bikes
+321,"Road-650 Red, 58",486.7066,TRUE,Red,782.99,58,R,469.794,L,U,Road-650,7/1/2002 0:00,6/30/2003 0:00,,Road Bikes
+322,"Road-650 Red, 60",413.1463,TRUE,Red,699.0982,60,R,419.4589,L,U,Road-650,7/1/2001 0:00,6/30/2002 0:00,,Road Bikes
+323,"Road-650 Red, 60",486.7066,TRUE,Red,782.99,60,R,469.794,L,U,Road-650,7/1/2002 0:00,6/30/2003 0:00,,Road Bikes
+324,"Road-650 Red, 62",413.1463,TRUE,Red,699.0982,62,R,419.4589,L,U,Road-650,7/1/2001 0:00,6/30/2002 0:00,,Road Bikes
+325,"Road-650 Red, 62",486.7066,TRUE,Red,782.99,62,R,469.794,L,U,Road-650,7/1/2002 0:00,6/30/2003 0:00,,Road Bikes
+326,"Road-650 Red, 44",413.1463,TRUE,Red,699.0982,44,R,419.4589,L,U,Road-650,7/1/2001 0:00,6/30/2002 0:00,,Road Bikes
+327,"Road-650 Red, 44",486.7066,TRUE,Red,782.99,44,R,469.794,L,U,Road-650,7/1/2002 0:00,6/30/2003 0:00,,Road Bikes
+328,"Road-650 Red, 48",413.1463,TRUE,Red,699.0982,48,R,419.4589,L,U,Road-650,7/1/2001 0:00,6/30/2002 0:00,,Road Bikes
+329,"Road-650 Red, 48",486.7066,TRUE,Red,782.99,48,R,469.794,L,U,Road-650,7/1/2002 0:00,6/30/2003 0:00,,Road Bikes
+330,"Road-650 Red, 52",413.1463,TRUE,Red,699.0982,52,R,419.4589,L,U,Road-650,7/1/2001 0:00,6/30/2002 0:00,,Road Bikes
+331,"Road-650 Red, 52",486.7066,TRUE,Red,782.99,52,R,469.794,L,U,Road-650,7/1/2002 0:00,6/30/2003 0:00,,Road Bikes
+332,"Road-650 Black, 58",413.1463,TRUE,Black,699.0982,58,R,419.4589,L,U,Road-650,7/1/2001 0:00,6/30/2002 0:00,,Road Bikes
+333,"Road-650 Black, 58",486.7066,TRUE,Black,782.99,58,R,469.794,L,U,Road-650,7/1/2002 0:00,6/30/2003 0:00,,Road Bikes
+334,"Road-650 Black, 60",413.1463,TRUE,Black,699.0982,60,R,419.4589,L,U,Road-650,7/1/2001 0:00,6/30/2002 0:00,,Road Bikes
+335,"Road-650 Black, 60",486.7066,TRUE,Black,782.99,60,R,469.794,L,U,Road-650,7/1/2002 0:00,6/30/2003 0:00,,Road Bikes
+336,"Road-650 Black, 62",413.1463,TRUE,Black,699.0982,62,R,419.4589,L,U,Road-650,7/1/2001 0:00,6/30/2002 0:00,,Road Bikes
+337,"Road-650 Black, 62",486.7066,TRUE,Black,782.99,62,R,469.794,L,U,Road-650,7/1/2002 0:00,6/30/2003 0:00,,Road Bikes
+338,"Road-650 Black, 44",413.1463,TRUE,Black,699.0982,44,R,419.4589,L,U,Road-650,7/1/2001 0:00,6/30/2002 0:00,,Road Bikes
+339,"Road-650 Black, 44",486.7066,TRUE,Black,782.99,44,R,469.794,L,U,Road-650,7/1/2002 0:00,6/30/2003 0:00,,Road Bikes
+340,"Road-650 Black, 48",413.1463,TRUE,Black,699.0982,48,R,419.4589,L,U,Road-650,7/1/2001 0:00,6/30/2002 0:00,,Road Bikes
+341,"Road-650 Black, 48",486.7066,TRUE,Black,782.99,48,R,469.794,L,U,Road-650,7/1/2002 0:00,6/30/2003 0:00,,Road Bikes
+342,"Road-650 Black, 52",413.1463,TRUE,Black,699.0982,52,R,419.4589,L,U,Road-650,7/1/2001 0:00,6/30/2002 0:00,,Road Bikes
+343,"Road-650 Black, 52",486.7066,TRUE,Black,782.99,52,R,469.794,L,U,Road-650,7/1/2002 0:00,6/30/2003 0:00,,Road Bikes
+344,"Mountain-100 Silver, 38",1912.1544,TRUE,Silver,3399.99,38,M,2039.994,H,U,Mountain-100,7/1/2001 0:00,6/30/2002 0:00,,Mountain Bikes
+345,"Mountain-100 Silver, 42",1912.1544,TRUE,Silver,3399.99,42,M,2039.994,H,U,Mountain-100,7/1/2001 0:00,6/30/2002 0:00,,Mountain Bikes
+346,"Mountain-100 Silver, 44",1912.1544,TRUE,Silver,3399.99,44,M,2039.994,H,U,Mountain-100,7/1/2001 0:00,6/30/2002 0:00,,Mountain Bikes
+347,"Mountain-100 Silver, 48",1912.1544,TRUE,Silver,3399.99,48,M,2039.994,H,U,Mountain-100,7/1/2001 0:00,6/30/2002 0:00,,Mountain Bikes
+348,"Mountain-100 Black, 38",1898.0944,TRUE,Black,3374.99,38,M,2024.994,H,U,Mountain-100,7/1/2001 0:00,6/30/2002 0:00,,Mountain Bikes
+349,"Mountain-100 Black, 42",1898.0944,TRUE,Black,3374.99,42,M,2024.994,H,U,Mountain-100,7/1/2001 0:00,6/30/2002 0:00,,Mountain Bikes
+350,"Mountain-100 Black, 44",1898.0944,TRUE,Black,3374.99,44,M,2024.994,H,U,Mountain-100,7/1/2001 0:00,6/30/2002 0:00,,Mountain Bikes
+351,"Mountain-100 Black, 48",1898.0944,TRUE,Black,3374.99,48,M,2024.994,H,U,Mountain-100,7/1/2001 0:00,6/30/2002 0:00,,Mountain Bikes
+352,"Mountain-200 Silver, 38",1117.8559,TRUE,Silver,2071.4196,38,M,1242.8518,H,U,Mountain-200,7/1/2002 0:00,6/30/2003 0:00,,Mountain Bikes
+353,"Mountain-200 Silver, 38",1265.6195,TRUE,Silver,2319.99,38,M,1391.994,H,U,Mountain-200,7/1/2003 0:00,,Current,Mountain Bikes
+354,"Mountain-200 Silver, 42",1117.8559,TRUE,Silver,2071.4196,42,M,1242.8518,H,U,Mountain-200,7/1/2002 0:00,6/30/2003 0:00,,Mountain Bikes
+355,"Mountain-200 Silver, 42",1265.6195,TRUE,Silver,2319.99,42,M,1391.994,H,U,Mountain-200,7/1/2003 0:00,,Current,Mountain Bikes
+356,"Mountain-200 Silver, 46",1117.8559,TRUE,Silver,2071.4196,46,M,1242.8518,H,U,Mountain-200,7/1/2002 0:00,6/30/2003 0:00,,Mountain Bikes
+357,"Mountain-200 Silver, 46",1265.6195,TRUE,Silver,2319.99,46,M,1391.994,H,U,Mountain-200,7/1/2003 0:00,,Current,Mountain Bikes
+358,"Mountain-200 Black, 38",1105.81,TRUE,Black,2049.0982,38,M,1229.4589,H,U,Mountain-200,7/1/2002 0:00,6/30/2003 0:00,,Mountain Bikes
+359,"Mountain-200 Black, 38",1251.9813,TRUE,Black,2294.99,38,M,1376.994,H,U,Mountain-200,7/1/2003 0:00,,Current,Mountain Bikes
+360,"Mountain-200 Black, 42",1105.81,TRUE,Black,2049.0982,42,M,1229.4589,H,U,Mountain-200,7/1/2002 0:00,6/30/2003 0:00,,Mountain Bikes
+361,"Mountain-200 Black, 42",1251.9813,TRUE,Black,2294.99,42,M,1376.994,H,U,Mountain-200,7/1/2003 0:00,,Current,Mountain Bikes
+362,"Mountain-200 Black, 46",1105.81,TRUE,Black,2049.0982,46,M,1229.4589,H,U,Mountain-200,7/1/2002 0:00,6/30/2003 0:00,,Mountain Bikes
+363,"Mountain-200 Black, 46",1251.9813,TRUE,Black,2294.99,46,M,1376.994,H,U,Mountain-200,7/1/2003 0:00,,Current,Mountain Bikes
+364,"Mountain-300 Black, 38",598.4354,TRUE,Black,1079.99,38,M,647.994,M,U,Mountain-300,7/1/2002 0:00,6/30/2003 0:00,,Mountain Bikes
+365,"Mountain-300 Black, 40",598.4354,TRUE,Black,1079.99,40,M,647.994,M,U,Mountain-300,7/1/2002 0:00,6/30/2003 0:00,,Mountain Bikes
+366,"Mountain-300 Black, 44",598.4354,TRUE,Black,1079.99,44,M,647.994,M,U,Mountain-300,7/1/2002 0:00,6/30/2003 0:00,,Mountain Bikes
+367,"Mountain-300 Black, 48",598.4354,TRUE,Black,1079.99,48,M,647.994,M,U,Mountain-300,7/1/2002 0:00,6/30/2003 0:00,,Mountain Bikes
+368,"Road-250 Red, 44",1518.7864,TRUE,Red,2443.35,44,R,1466.01,H,U,Road-250,7/1/2002 0:00,6/30/2003 0:00,,Road Bikes
+369,"Road-250 Red, 48",1518.7864,TRUE,Red,2443.35,48,R,1466.01,H,U,Road-250,7/1/2002 0:00,6/30/2003 0:00,,Road Bikes
+370,"Road-250 Red, 52",1518.7864,TRUE,Red,2443.35,52,R,1466.01,H,U,Road-250,7/1/2002 0:00,6/30/2003 0:00,,Road Bikes
+371,"Road-250 Red, 58",1320.6838,TRUE,Red,2181.5625,58,R,1308.9375,H,U,Road-250,7/1/2002 0:00,6/30/2003 0:00,,Road Bikes
+372,"Road-250 Red, 58",1554.9479,TRUE,Red,2443.35,58,R,1466.01,H,U,Road-250,7/1/2003 0:00,,Current,Road Bikes
+373,"Road-250 Black, 44",1320.6838,TRUE,Black,2181.5625,44,R,1308.9375,H,U,Road-250,7/1/2002 0:00,6/30/2003 0:00,,Road Bikes
+374,"Road-250 Black, 44",1554.9479,TRUE,Black,2443.35,44,R,1466.01,H,U,Road-250,7/1/2003 0:00,,Current,Road Bikes
+375,"Road-250 Black, 48",1320.6838,TRUE,Black,2181.5625,48,R,1308.9375,H,U,Road-250,7/1/2002 0:00,6/30/2003 0:00,,Road Bikes
+376,"Road-250 Black, 48",1554.9479,TRUE,Black,2443.35,48,R,1466.01,H,U,Road-250,7/1/2003 0:00,,Current,Road Bikes
+377,"Road-250 Black, 52",1320.6838,TRUE,Black,2181.5625,52,R,1308.9375,H,U,Road-250,7/1/2002 0:00,6/30/2003 0:00,,Road Bikes
+378,"Road-250 Black, 52",1554.9479,TRUE,Black,2443.35,52,R,1466.01,H,U,Road-250,7/1/2003 0:00,,Current,Road Bikes
+379,"Road-250 Black, 58",1320.6838,TRUE,Black,2181.5625,58,R,1308.9375,H,U,Road-250,7/1/2002 0:00,6/30/2003 0:00,,Road Bikes
+380,"Road-250 Black, 58",1554.9479,TRUE,Black,2443.35,58,R,1466.01,H,U,Road-250,7/1/2003 0:00,,Current,Road Bikes
+381,"Road-550-W Yellow, 38",605.6492,TRUE,Yellow,1000.4375,38,R,600.2625,M,W,Road-550-W,7/1/2002 0:00,6/30/2003 0:00,,Road Bikes
+382,"Road-550-W Yellow, 38",713.0798,TRUE,Yellow,1120.49,38,R,672.294,M,W,Road-550-W,7/1/2003 0:00,,Current,Road Bikes
+383,"Road-550-W Yellow, 40",605.6492,TRUE,Yellow,1000.4375,40,R,600.2625,M,W,Road-550-W,7/1/2002 0:00,6/30/2003 0:00,,Road Bikes
+384,"Road-550-W Yellow, 40",713.0798,TRUE,Yellow,1120.49,40,R,672.294,M,W,Road-550-W,7/1/2003 0:00,,Current,Road Bikes
+385,"Road-550-W Yellow, 42",605.6492,TRUE,Yellow,1000.4375,42,R,600.2625,M,W,Road-550-W,7/1/2002 0:00,6/30/2003 0:00,,Road Bikes
+386,"Road-550-W Yellow, 42",713.0798,TRUE,Yellow,1120.49,42,R,672.294,M,W,Road-550-W,7/1/2003 0:00,,Current,Road Bikes
+387,"Road-550-W Yellow, 44",605.6492,TRUE,Yellow,1000.4375,44,R,600.2625,M,W,Road-550-W,7/1/2002 0:00,6/30/2003 0:00,,Road Bikes
+388,"Road-550-W Yellow, 44",713.0798,TRUE,Yellow,1120.49,44,R,672.294,M,W,Road-550-W,7/1/2003 0:00,,Current,Road Bikes
+389,"Road-550-W Yellow, 48",605.6492,TRUE,Yellow,1000.4375,48,R,600.2625,M,W,Road-550-W,7/1/2002 0:00,6/30/2003 0:00,,Road Bikes
+390,"Road-550-W Yellow, 48",713.0798,TRUE,Yellow,1120.49,48,R,672.294,M,W,Road-550-W,7/1/2003 0:00,,Current,Road Bikes
+391,LL Fork,65.8097,TRUE,NA,148.22,,,88.932,L,,LL Fork,7/1/2002 0:00,6/30/2003 0:00,,Forks
+392,ML Fork,77.9176,TRUE,NA,175.49,,,105.294,M,,ML Fork,7/1/2002 0:00,6/30/2003 0:00,,Forks
+393,HL Fork,101.8936,TRUE,NA,229.49,,,137.694,H,,HL Fork,7/1/2002 0:00,6/30/2003 0:00,,Forks
+394,LL Headset,15.1848,TRUE,NA,34.2,,,20.52,L,,LL Headset,7/1/2002 0:00,6/30/2003 0:00,,Headsets
+395,ML Headset,45.4168,TRUE,NA,102.29,,,61.374,M,,ML Headset,7/1/2002 0:00,6/30/2003 0:00,,Headsets
+396,HL Headset,55.3801,TRUE,NA,124.73,,,74.838,H,,HL Headset,7/1/2002 0:00,6/30/2003 0:00,,Headsets
+397,LL Mountain Handlebars,17.978,TRUE,NA,40.4909,,M,24.2945,L,,LL Mountain Handlebars,7/1/2002 0:00,6/30/2003 0:00,,Handlebars
+398,LL Mountain Handlebars,19.7758,TRUE,NA,44.54,,M,26.724,L,,LL Mountain Handlebars,7/1/2003 0:00,,Current,Handlebars
+399,ML Mountain Handlebars,24.9932,TRUE,NA,56.2909,,M,33.7745,M,,ML Mountain Handlebars,7/1/2002 0:00,6/30/2003 0:00,,Handlebars
+400,ML Mountain Handlebars,27.4925,TRUE,NA,61.92,,M,37.152,M,,ML Mountain Handlebars,7/1/2003 0:00,,Current,Handlebars
+401,HL Mountain Handlebars,48.5453,TRUE,NA,109.3364,,M,65.6018,H,,HL Mountain Handlebars,7/1/2002 0:00,6/30/2003 0:00,,Handlebars
+402,HL Mountain Handlebars,53.3999,TRUE,NA,120.27,,M,72.162,H,,HL Mountain Handlebars,7/1/2003 0:00,,Current,Handlebars
+403,LL Road Handlebars,17.978,TRUE,NA,40.4909,,R,24.2945,L,,LL Road Handlebars,7/1/2002 0:00,6/30/2003 0:00,,Handlebars
+404,LL Road Handlebars,19.7758,TRUE,NA,44.54,,R,26.724,L,,LL Road Handlebars,7/1/2003 0:00,,Current,Handlebars
+405,ML Road Handlebars,24.9932,TRUE,NA,56.2909,,R,33.7745,M,,ML Road Handlebars,7/1/2002 0:00,6/30/2003 0:00,,Handlebars
+406,ML Road Handlebars,27.4925,TRUE,NA,61.92,,R,37.152,M,,ML Road Handlebars,7/1/2003 0:00,,Current,Handlebars
+407,HL Road Handlebars,48.5453,TRUE,NA,109.3364,,R,65.6018,H,,HL Road Handlebars,7/1/2002 0:00,6/30/2003 0:00,,Handlebars
+408,HL Road Handlebars,53.3999,TRUE,NA,120.27,,R,72.162,H,,HL Road Handlebars,7/1/2003 0:00,,Current,Handlebars
+409,"ML Mountain Frame - Black, 38",185.8193,TRUE,Black,348.76,38,M,209.256,M,U,ML Mountain Frame-W,7/1/2002 0:00,6/30/2003 0:00,,Mountain Frames
+410,LL Mountain Front Wheel,26.9708,TRUE,Black,60.745,,M,36.447,L,,LL Mountain Front Wheel,7/1/2002 0:00,6/30/2003 0:00,,Wheels
+411,ML Mountain Front Wheel,92.8071,TRUE,Black,209.025,,M,125.415,M,,ML Mountain Front Wheel,7/1/2002 0:00,6/30/2003 0:00,,Wheels
+412,HL Mountain Front Wheel,133.2955,TRUE,Black,300.215,,M,180.129,H,,HL Mountain Front Wheel,7/1/2002 0:00,6/30/2003 0:00,,Wheels
+413,LL Road Front Wheel,37.9909,TRUE,Black,85.565,,R,51.339,L,,LL Road Front Wheel,7/1/2002 0:00,6/30/2003 0:00,,Wheels
+414,ML Road Front Wheel,110.2829,TRUE,Black,248.385,,R,149.031,M,,ML Road Front Wheel,7/1/2002 0:00,6/30/2003 0:00,,Wheels
+415,HL Road Front Wheel,146.5466,TRUE,Black,330.06,,R,198.036,H,,HL Road Front Wheel,7/1/2002 0:00,6/30/2003 0:00,,Wheels
+416,Touring Front Wheel,96.7964,TRUE,Black,218.01,,T,130.806,,,Touring Front Wheel,7/1/2002 0:00,6/30/2003 0:00,,Wheels
+417,"ML Road Frame-W - Yellow, 38",300.1188,TRUE,Yellow,540.7545,38,R,324.4527,M,W,ML Road Frame-W,7/1/2002 0:00,6/30/2003 0:00,,Road Frames
+418,"ML Road Frame-W - Yellow, 38",360.9428,TRUE,Yellow,594.83,38,R,356.898,M,W,ML Road Frame-W,7/1/2003 0:00,,Current,Road Frames
+419,LL Mountain Rear Wheel,38.9588,TRUE,Black,87.745,,M,52.647,L,,LL Mountain Rear Wheel,7/1/2002 0:00,6/30/2003 0:00,,Wheels
+420,ML Mountain Rear Wheel,104.7951,TRUE,Black,236.025,,M,141.615,M,,ML Mountain Rear Wheel,7/1/2002 0:00,6/30/2003 0:00,,Wheels
+421,HL Mountain Rear Wheel,145.2835,TRUE,Black,327.215,,M,196.329,H,,HL Mountain Rear Wheel,7/1/2002 0:00,6/30/2003 0:00,,Wheels
+422,LL Road Rear Wheel,49.9789,TRUE,Black,112.565,,R,67.539,L,,LL Road Rear Wheel,7/1/2002 0:00,6/30/2003 0:00,,Wheels
+423,ML Road Rear Wheel,122.2709,TRUE,Black,275.385,,R,165.231,M,,ML Road Rear Wheel,7/1/2002 0:00,6/30/2003 0:00,,Wheels
+424,HL Road Rear Wheel,158.5346,TRUE,Black,357.06,,R,214.236,H,,HL Road Rear Wheel,7/1/2002 0:00,6/30/2003 0:00,,Wheels
+425,Touring Rear Wheel,108.7844,TRUE,Black,245.01,,T,147.006,,,Touring Rear Wheel,7/1/2002 0:00,6/30/2003 0:00,,Wheels
+426,"ML Mountain Frame - Black, 40",185.8193,TRUE,Black,348.76,40,M,209.256,M,U,ML Mountain Frame,7/1/2002 0:00,6/30/2003 0:00,,Mountain Frames
+427,"ML Mountain Frame - Black, 44",185.8193,TRUE,Black,348.76,44,M,209.256,M,U,ML Mountain Frame,7/1/2002 0:00,6/30/2003 0:00,,Mountain Frames
+428,"ML Mountain Frame - Black, 48",185.8193,TRUE,Black,348.76,48,M,209.256,M,U,ML Mountain Frame,7/1/2002 0:00,6/30/2003 0:00,,Mountain Frames
+429,"ML Road Frame-W - Yellow, 40",300.1188,TRUE,Yellow,540.7545,40,R,324.4527,M,W,ML Road Frame-W,7/1/2002 0:00,6/30/2003 0:00,,Road Frames
+430,"ML Road Frame-W - Yellow, 40",360.9428,TRUE,Yellow,594.83,40,R,356.898,M,W,ML Road Frame-W,7/1/2003 0:00,,Current,Road Frames
+431,"ML Road Frame-W - Yellow, 42",300.1188,TRUE,Yellow,540.7545,42,R,324.4527,M,W,ML Road Frame-W,7/1/2002 0:00,6/30/2003 0:00,,Road Frames
+432,"ML Road Frame-W - Yellow, 42",360.9428,TRUE,Yellow,594.83,42,R,356.898,M,W,ML Road Frame-W,7/1/2003 0:00,,Current,Road Frames
+433,"ML Road Frame-W - Yellow, 44",300.1188,TRUE,Yellow,540.7545,44,R,324.4527,M,W,ML Road Frame-W,7/1/2002 0:00,6/30/2003 0:00,,Road Frames
+434,"ML Road Frame-W - Yellow, 44",360.9428,TRUE,Yellow,594.83,44,R,356.898,M,W,ML Road Frame-W,7/1/2003 0:00,,Current,Road Frames
+435,"ML Road Frame-W - Yellow, 48",300.1188,TRUE,Yellow,540.7545,48,R,324.4527,M,W,ML Road Frame-W,7/1/2002 0:00,6/30/2003 0:00,,Road Frames
+436,"ML Road Frame-W - Yellow, 48",360.9428,TRUE,Yellow,594.83,48,R,356.898,M,W,ML Road Frame-W,7/1/2003 0:00,,Current,Road Frames
+437,"HL Road Frame - Black, 62",722.2568,TRUE,Black,1301.3636,62,R,780.8182,H,U,HL Road Frame,7/1/2002 0:00,6/30/2003 0:00,,Road Frames
+438,"HL Road Frame - Black, 62",868.6342,TRUE,Black,1431.5,62,R,858.9,H,U,HL Road Frame,7/1/2003 0:00,,Current,Road Frames
+439,"HL Road Frame - Black, 44",722.2568,TRUE,Black,1301.3636,44,R,780.8182,H,U,HL Road Frame,7/1/2002 0:00,6/30/2003 0:00,,Road Frames
+440,"HL Road Frame - Black, 44",868.6342,TRUE,Black,1431.5,44,R,858.9,H,U,HL Road Frame,7/1/2003 0:00,,Current,Road Frames
+441,"HL Road Frame - Black, 48",722.2568,TRUE,Black,1301.3636,48,R,780.8182,H,U,HL Road Frame,7/1/2002 0:00,6/30/2003 0:00,,Road Frames
+442,"HL Road Frame - Black, 48",868.6342,TRUE,Black,1431.5,48,R,858.9,H,U,HL Road Frame,7/1/2003 0:00,,Current,Road Frames
+443,"HL Road Frame - Black, 52",722.2568,TRUE,Black,1301.3636,52,R,780.8182,H,U,HL Road Frame,7/1/2002 0:00,6/30/2003 0:00,,Road Frames
+444,"HL Road Frame - Black, 52",868.6342,TRUE,Black,1431.5,52,R,858.9,H,U,HL Road Frame,7/1/2003 0:00,,Current,Road Frames
+445,"Men's Sports Shorts, S",24.7459,TRUE,Black,59.99,S,S,35.994,,M,Men's Sports Shorts,7/1/2002 0:00,6/30/2003 0:00,,Shorts
+446,"Touring-Panniers, Large",51.5625,TRUE,Grey,125,,T,75,,,Touring-Panniers,7/1/2002 0:00,6/30/2003 0:00,,Panniers
+447,Cable Lock,10.3125,TRUE,NA,25,,S,15,,,Cable Lock,7/1/2002 0:00,6/30/2003 0:00,,Locks
+448,Minipump,8.2459,TRUE,NA,19.99,,S,11.994,,,Minipump,7/1/2002 0:00,6/30/2003 0:00,,Pumps
+449,Mountain Pump,10.3084,TRUE,NA,24.99,,M,14.994,,,Mountain Pump,7/1/2002 0:00,6/30/2003 0:00,,Pumps
+450,Taillights - Battery-Powered,5.7709,TRUE,NA,13.99,,R,8.394,,,Taillight,7/1/2002 0:00,6/30/2003 0:00,,Lights
+451,Headlights - Dual-Beam,14.4334,TRUE,NA,34.99,,R,20.994,,,Headlights - Dual-Beam,7/1/2002 0:00,6/30/2003 0:00,,Lights
+452,Headlights - Weatherproof,18.5584,TRUE,NA,44.99,,R,26.994,,,Headlights - Weatherproof,7/1/2002 0:00,6/30/2003 0:00,,Lights
+453,"Men's Sports Shorts, M",24.7459,TRUE,Black,59.99,M,S,35.994,,M,Men's Sports Shorts,7/1/2002 0:00,6/30/2003 0:00,,Shorts
+454,"Men's Sports Shorts, L",24.7459,TRUE,Black,59.99,L,S,35.994,,M,Men's Sports Shorts,7/1/2002 0:00,6/30/2003 0:00,,Shorts
+455,"Men's Sports Shorts, XL",24.7459,TRUE,Black,59.99,XL,S,35.994,,M,Men's Sports Shorts,7/1/2002 0:00,6/30/2003 0:00,,Shorts
+456,"Women's Tights, S",30.9334,TRUE,Black,74.99,S,S,44.994,,W,Women's Tights,7/1/2002 0:00,6/30/2003 0:00,,Tights
+457,"Women's Tights, M",30.9334,TRUE,Black,74.99,M,S,44.994,,W,Women's Tights,7/1/2002 0:00,6/30/2003 0:00,,Tights
+458,"Women's Tights, L",30.9334,TRUE,Black,74.99,L,S,44.994,,W,Women's Tights,7/1/2002 0:00,6/30/2003 0:00,,Tights
+459,"Men's Bib-Shorts, S",37.1209,TRUE,Multi,89.99,S,S,53.994,,M,Men's Bib-Shorts,7/1/2002 0:00,6/30/2003 0:00,,Bib-Shorts
+460,"Men's Bib-Shorts, M",37.1209,TRUE,Multi,89.99,M,S,53.994,,M,Men's Bib-Shorts,7/1/2002 0:00,6/30/2003 0:00,,Bib-Shorts
+461,"Men's Bib-Shorts, L",37.1209,TRUE,Multi,89.99,L,S,53.994,,M,Men's Bib-Shorts,7/1/2002 0:00,6/30/2003 0:00,,Bib-Shorts
+462,"Half-Finger Gloves, S",9.7136,TRUE,Black,23.5481,S,S,14.1289,,U,Half-Finger Gloves,7/1/2002 0:00,6/30/2003 0:00,,Gloves
+463,"Half-Finger Gloves, S",9.1593,TRUE,Black,24.49,S,S,14.694,,U,Half-Finger Gloves,7/1/2003 0:00,,Current,Gloves
+464,"Half-Finger Gloves, M",9.7136,TRUE,Black,23.5481,M,S,14.1289,,U,Half-Finger Gloves,7/1/2002 0:00,6/30/2003 0:00,,Gloves
+465,"Half-Finger Gloves, M",9.1593,TRUE,Black,24.49,M,S,14.694,,U,Half-Finger Gloves,7/1/2003 0:00,,Current,Gloves
+466,"Half-Finger Gloves, L",9.7136,TRUE,Black,23.5481,L,S,14.1289,,U,Half-Finger Gloves,7/1/2002 0:00,6/30/2003 0:00,,Gloves
+467,"Half-Finger Gloves, L",9.1593,TRUE,Black,24.49,L,S,14.694,,U,Half-Finger Gloves,7/1/2003 0:00,,Current,Gloves
+468,"Full-Finger Gloves, S",15.6709,TRUE,Black,37.99,S,M,22.794,,U,Full-Finger Gloves,7/1/2002 0:00,6/30/2003 0:00,,Gloves
+469,"Full-Finger Gloves, M",15.6709,TRUE,Black,37.99,M,M,22.794,,U,Full-Finger Gloves,7/1/2002 0:00,6/30/2003 0:00,,Gloves
+470,"Full-Finger Gloves, L",15.6709,TRUE,Black,37.99,L,M,22.794,,U,Full-Finger Gloves,7/1/2002 0:00,6/30/2003 0:00,,Gloves
+471,"Classic Vest, S",23.749,TRUE,Blue,63.5,S,S,38.1,,U,Classic Vest,7/1/2003 0:00,,Current,Vests
+472,"Classic Vest, M",23.749,TRUE,Blue,63.5,M,S,38.1,,U,Classic Vest,7/1/2003 0:00,,Current,Vests
+473,"Classic Vest, L",23.749,TRUE,Blue,63.5,L,S,38.1,,U,Classic Vest,7/1/2003 0:00,,Current,Vests
+474,"Women's Mountain Shorts, S",26.1763,TRUE,Black,69.99,S,M,41.994,,W,Women's Mountain Shorts,7/1/2003 0:00,,Current,Shorts
+475,"Women's Mountain Shorts, M",26.1763,TRUE,Black,69.99,M,M,41.994,,W,Women's Mountain Shorts,7/1/2003 0:00,,Current,Shorts
+476,"Women's Mountain Shorts, L",26.1763,TRUE,Black,69.99,L,M,41.994,,W,Women's Mountain Shorts,7/1/2003 0:00,,Current,Shorts
+477,Water Bottle - 30 oz.,1.8663,TRUE,NA,4.99,,S,2.994,,,Water Bottle,7/1/2003 0:00,,Current,Bottles and Cages
+478,Mountain Bottle Cage,3.7363,TRUE,NA,9.99,,M,5.994,,,Mountain Bottle Cage,7/1/2003 0:00,,Current,Bottles and Cages
+479,Road Bottle Cage,3.3623,TRUE,NA,8.99,,R,5.394,,,Road Bottle Cage,7/1/2003 0:00,,Current,Bottles and Cages
+480,Patch Kit/8 Patches,0.8565,TRUE,NA,2.29,,S,1.374,,,Patch kit,7/1/2003 0:00,,Current,Tires and Tubes
+481,"Racing Socks, M",3.3623,TRUE,White,8.99,M,R,5.394,,U,Racing Socks,7/1/2003 0:00,,Current,Socks
+482,"Racing Socks, L",3.3623,TRUE,White,8.99,L,R,5.394,,U,Racing Socks,7/1/2003 0:00,,Current,Socks
+483,Hitch Rack - 4-Bike,44.88,TRUE,NA,120,,S,72,,,Hitch Rack - 4-Bike,7/1/2003 0:00,,Current,Bike Racks
+484,Bike Wash - Dissolver,2.9733,TRUE,NA,7.95,,S,4.77,,,Bike Wash,7/1/2003 0:00,,Current,Cleaners
+485,Fender Set - Mountain,8.2205,TRUE,NA,21.98,,M,13.188,,,Fender Set - Mountain,7/1/2003 0:00,,Current,Fenders
+486,All-Purpose Bike Stand,59.466,TRUE,NA,159,,M,95.4,,,All-Purpose Bike Stand,7/1/2003 0:00,,Current,Bike Stands
+487,Hydration Pack - 70 oz.,20.5663,TRUE,Silver,54.99,70,S,32.994,,,Hydration Pack,7/1/2003 0:00,,Current,Hydration Packs
+488,"Short-Sleeve Classic Jersey, S",41.5723,TRUE,Yellow,53.99,S,S,32.394,,U,Short-Sleeve Classic Jersey,7/1/2003 0:00,,Current,Jerseys
+489,"Short-Sleeve Classic Jersey, M",41.5723,TRUE,Yellow,53.99,M,S,32.394,,U,Short-Sleeve Classic Jersey,7/1/2003 0:00,,Current,Jerseys
+490,"Short-Sleeve Classic Jersey, L",41.5723,TRUE,Yellow,53.99,L,S,32.394,,U,Short-Sleeve Classic Jersey,7/1/2003 0:00,,Current,Jerseys
+491,"Short-Sleeve Classic Jersey, XL",41.5723,TRUE,Yellow,53.99,XL,S,32.394,,U,Short-Sleeve Classic Jersey,7/1/2003 0:00,,Current,Jerseys
+492,"HL Touring Frame - Yellow, 60",601.7437,TRUE,Yellow,1003.91,60,T,602.346,H,U,HL Touring Frame,7/1/2003 0:00,,Current,Touring Frames
+493,"LL Touring Frame - Yellow, 62",199.8519,TRUE,Yellow,333.42,62,T,200.052,L,U,LL Touring Frame,7/1/2003 0:00,,Current,Touring Frames
+494,"HL Touring Frame - Yellow, 46",601.7437,TRUE,Yellow,1003.91,46,T,602.346,H,U,HL Touring Frame,7/1/2003 0:00,,Current,Touring Frames
+495,"HL Touring Frame - Yellow, 50",601.7437,TRUE,Yellow,1003.91,50,T,602.346,H,U,HL Touring Frame,7/1/2003 0:00,,Current,Touring Frames
+496,"HL Touring Frame - Yellow, 54",601.7437,TRUE,Yellow,1003.91,54,T,602.346,H,U,HL Touring Frame,7/1/2003 0:00,,Current,Touring Frames
+497,"HL Touring Frame - Blue, 46",601.7437,TRUE,Blue,1003.91,46,T,602.346,H,U,HL Touring Frame,7/1/2003 0:00,,Current,Touring Frames
+498,"HL Touring Frame - Blue, 50",601.7437,TRUE,Blue,1003.91,50,T,602.346,H,U,HL Touring Frame,7/1/2003 0:00,,Current,Touring Frames
+499,"HL Touring Frame - Blue, 54",601.7437,TRUE,Blue,1003.91,54,T,602.346,H,U,HL Touring Frame,7/1/2003 0:00,,Current,Touring Frames
+500,"HL Touring Frame - Blue, 60",601.7437,TRUE,Blue,1003.91,60,T,602.346,H,U,HL Touring Frame,7/1/2003 0:00,,Current,Touring Frames
+501,Rear Derailleur,53.9282,TRUE,Silver,121.46,,,72.876,,,Rear Derailleur,7/1/2003 0:00,,Current,Derailleurs
+502,"LL Touring Frame - Blue, 50",199.8519,TRUE,Blue,333.42,50,T,200.052,L,U,LL Touring Frame,7/1/2003 0:00,,Current,Touring Frames
+503,"LL Touring Frame - Blue, 54",199.8519,TRUE,Blue,333.42,54,T,200.052,L,U,LL Touring Frame,7/1/2003 0:00,,Current,Touring Frames
+504,"LL Touring Frame - Blue, 58",199.8519,TRUE,Blue,333.42,58,T,200.052,L,U,LL Touring Frame,7/1/2003 0:00,,Current,Touring Frames
+505,"LL Touring Frame - Blue, 62",199.8519,TRUE,Blue,333.42,62,T,200.052,L,U,LL Touring Frame,7/1/2003 0:00,,Current,Touring Frames
+506,"LL Touring Frame - Yellow, 44",199.8519,TRUE,Yellow,333.42,44,T,200.052,L,U,LL Touring Frame,7/1/2003 0:00,,Current,Touring Frames
+507,"LL Touring Frame - Yellow, 50",199.8519,TRUE,Yellow,333.42,50,T,200.052,L,U,LL Touring Frame,7/1/2003 0:00,,Current,Touring Frames
+508,"LL Touring Frame - Yellow, 54",199.8519,TRUE,Yellow,333.42,54,T,200.052,L,U,LL Touring Frame,7/1/2003 0:00,,Current,Touring Frames
+509,"LL Touring Frame - Yellow, 58",199.8519,TRUE,Yellow,333.42,58,T,200.052,L,U,LL Touring Frame,7/1/2003 0:00,,Current,Touring Frames
+510,"LL Touring Frame - Blue, 44",199.8519,TRUE,Blue,333.42,44,T,200.052,L,U,LL Touring Frame,7/1/2003 0:00,,Current,Touring Frames
+511,"ML Mountain Frame-W - Silver, 40",199.3757,TRUE,Silver,364.09,40,M,218.454,M,W,ML Mountain Frame-W,7/1/2003 0:00,,Current,Mountain Frames
+512,"ML Mountain Frame-W - Silver, 42",199.3757,TRUE,Silver,364.09,42,M,218.454,M,W,ML Mountain Frame-W,7/1/2003 0:00,,Current,Mountain Frames
+513,"ML Mountain Frame-W - Silver, 46",199.3757,TRUE,Silver,364.09,46,M,218.454,M,W,ML Mountain Frame-W,7/1/2003 0:00,,Current,Mountain Frames
+514,Rear Brakes,47.286,TRUE,Silver,106.5,,,63.9,,,Rear Brakes,7/1/2003 0:00,,Current,Brakes
+515,LL Mountain Seat/Saddle,12.0413,TRUE,NA,27.12,,M,16.272,L,,LL Mountain Seat/Saddle 2,7/1/2003 0:00,,Current,Saddles
+516,ML Mountain Seat/Saddle,17.3782,TRUE,NA,39.14,,M,23.484,M,,ML Mountain Seat/Saddle 2,7/1/2003 0:00,,Current,Saddles
+517,HL Mountain Seat/Saddle,23.3722,TRUE,NA,52.64,,M,31.584,H,,HL Mountain Seat/Saddle 2,7/1/2003 0:00,,Current,Saddles
+518,LL Road Seat/Saddle,12.0413,TRUE,NA,27.12,,R,16.272,L,,LL Road Seat/Saddle 1,7/1/2003 0:00,,Current,Saddles
+519,ML Road Seat/Saddle,17.3782,TRUE,NA,39.14,,T,23.484,M,,ML Road Seat/Saddle 2,7/1/2003 0:00,,Current,Saddles
+520,HL Road Seat/Saddle,23.3722,TRUE,NA,52.64,,R,31.584,H,,HL Road Seat/Saddle 2,7/1/2003 0:00,,Current,Saddles
+521,LL Touring Seat/Saddle,12.0413,TRUE,NA,27.12,,T,16.272,L,,LL Touring Seat/Saddle,7/1/2003 0:00,,Current,Saddles
+522,ML Touring Seat/Saddle,17.3782,TRUE,NA,39.14,,T,23.484,M,,ML Touring Seat/Saddle,7/1/2003 0:00,,Current,Saddles
+523,HL Touring Seat/Saddle,23.3722,TRUE,NA,52.64,,T,31.584,H,,HL Touring Seat/Saddle,7/1/2003 0:00,,Current,Saddles
+524,"LL Mountain Frame - Silver, 42",144.5938,TRUE,Silver,264.05,42,M,158.43,L,U,LL Mountain Frame,7/1/2003 0:00,,Current,Mountain Frames
+525,"LL Mountain Frame - Silver, 44",144.5938,TRUE,Silver,264.05,44,M,158.43,L,U,LL Mountain Frame,7/1/2003 0:00,,Current,Mountain Frames
+526,"LL Mountain Frame - Silver, 48",144.5938,TRUE,Silver,264.05,48,M,158.43,L,U,LL Mountain Frame,7/1/2003 0:00,,Current,Mountain Frames
+527,"LL Mountain Frame - Silver, 52",144.5938,TRUE,Silver,264.05,52,M,158.43,L,U,LL Mountain Frame,7/1/2003 0:00,,Current,Mountain Frames
+528,Mountain Tire Tube,1.8663,TRUE,NA,4.99,,M,2.994,,,Mountain Tire Tube,7/1/2003 0:00,,Current,Tires and Tubes
+529,Road Tire Tube,1.4923,TRUE,NA,3.99,,R,2.394,,,Road Tire Tube,7/1/2003 0:00,,Current,Tires and Tubes
+530,Touring Tire Tube,1.8663,TRUE,NA,4.99,,T,2.994,,,Touring Tire Tube,7/1/2003 0:00,,Current,Tires and Tubes
+531,"LL Mountain Frame - Black, 42",136.785,TRUE,Black,249.79,42,M,149.874,L,U,LL Mountain Frame,7/1/2003 0:00,,Current,Mountain Frames
+532,"LL Mountain Frame - Black, 44",136.785,TRUE,Black,249.79,44,M,149.874,L,U,LL Mountain Frame,7/1/2003 0:00,,Current,Mountain Frames
+533,"LL Mountain Frame - Black, 48",136.785,TRUE,Black,249.79,48,M,149.874,L,U,LL Mountain Frame,7/1/2003 0:00,,Current,Mountain Frames
+534,"LL Mountain Frame - Black, 52",136.785,TRUE,Black,249.79,52,M,149.874,L,U,LL Mountain Frame,7/1/2003 0:00,,Current,Mountain Frames
+535,LL Mountain Tire,9.3463,TRUE,NA,24.99,,M,14.994,L,,LL Mountain Tire,7/1/2003 0:00,,Current,Tires and Tubes
+536,ML Mountain Tire,11.2163,TRUE,NA,29.99,,M,17.994,M,,ML Mountain Tire,7/1/2003 0:00,,Current,Tires and Tubes
+537,HL Mountain Tire,13.09,TRUE,NA,35,,M,21,H,,HL Mountain Tire,7/1/2003 0:00,,Current,Tires and Tubes
+538,LL Road Tire,8.0373,TRUE,NA,21.49,,R,12.894,L,,LL Road Tire,7/1/2003 0:00,,Current,Tires and Tubes
+539,ML Road Tire,9.3463,TRUE,NA,24.99,,R,14.994,M,,ML Road Tire,7/1/2003 0:00,,Current,Tires and Tubes
+540,HL Road Tire,12.1924,TRUE,NA,32.6,,R,19.56,H,,HL Road Tire,7/1/2003 0:00,,Current,Tires and Tubes
+541,Touring Tire,10.8423,TRUE,NA,28.99,,T,17.394,,,Touring Tire,7/1/2003 0:00,,Current,Tires and Tubes
+542,LL Mountain Pedal,17.9776,TRUE,Silver/Black,40.49,,M,24.294,L,,LL Mountain Pedal,7/1/2003 0:00,,Current,Pedals
+543,ML Mountain Pedal,27.568,TRUE,Silver/Black,62.09,,M,37.254,M,,ML Mountain Pedal,7/1/2003 0:00,,Current,Pedals
+544,HL Mountain Pedal,35.9596,TRUE,Silver/Black,80.99,,M,48.594,H,,HL Mountain Pedal,7/1/2003 0:00,,Current,Pedals
+545,LL Road Pedal,17.9776,TRUE,Silver/Black,40.49,,R,24.294,L,,LL Road Pedal,7/1/2003 0:00,,Current,Pedals
+546,ML Road Pedal,27.568,TRUE,Silver/Black,62.09,,R,37.254,M,,ML Road Pedal,7/1/2003 0:00,,Current,Pedals
+547,HL Road Pedal,35.9596,TRUE,Silver/Black,80.99,,R,48.594,H,,HL Road Pedal,7/1/2003 0:00,,Current,Pedals
+548,Touring Pedal,35.9596,TRUE,Silver/Black,80.99,,T,48.594,,,Touring Pedal,7/1/2003 0:00,,Current,Pedals
+549,"ML Mountain Frame-W - Silver, 38",199.3757,TRUE,Silver,364.09,38,M,218.454,M,W,ML Mountain Frame-W,7/1/2003 0:00,,Current,Mountain Frames
+550,"LL Mountain Frame - Black, 40",136.785,TRUE,Black,249.79,40,M,149.874,L,U,LL Mountain Frame,7/1/2003 0:00,,Current,Mountain Frames
+551,"LL Mountain Frame - Silver, 40",144.5938,TRUE,Silver,264.05,40,M,158.43,L,U,LL Mountain Frame,7/1/2003 0:00,,Current,Mountain Frames
+552,Front Derailleur,40.6216,TRUE,Silver,91.49,,,54.894,,,Front Derailleur,7/1/2003 0:00,,Current,Derailleurs
+553,LL Touring Handlebars,20.464,TRUE,NA,46.09,,T,27.654,L,,LL Touring Handlebars,7/1/2003 0:00,,Current,Handlebars
+554,HL Touring Handlebars,40.6571,TRUE,NA,91.57,,T,54.942,H,,HL Touring Handlebars,7/1/2003 0:00,,Current,Handlebars
+555,Front Brakes,47.286,TRUE,Silver,106.5,,,63.9,,,Front Brakes,7/1/2003 0:00,,Current,Brakes
+556,LL Crankset,77.9176,TRUE,Black,175.49,,,105.294,L,,LL Crankset,7/1/2003 0:00,,Current,Cranksets
+557,ML Crankset,113.8816,TRUE,Black,256.49,,,153.894,M,,ML Crankset,7/1/2003 0:00,,Current,Cranksets
+558,HL Crankset,179.8156,TRUE,Black,404.99,,,242.994,H,,HL Crankset,7/1/2003 0:00,,Current,Cranksets
+559,Chain,8.9866,TRUE,Silver,20.24,,,12.144,,,Chain,7/1/2003 0:00,,Current,Chains
+560,"Touring-2000 Blue, 60",755.1508,TRUE,Blue,1214.85,60,T,728.91,M,U,Touring-2000,7/1/2003 0:00,,Current,Touring Bikes
+561,"Touring-1000 Yellow, 46",1481.9379,TRUE,Yellow,2384.07,46,T,1430.442,H,U,Touring-1000,7/1/2003 0:00,,Current,Touring Bikes
+562,"Touring-1000 Yellow, 50",1481.9379,TRUE,Yellow,2384.07,50,T,1430.442,H,U,Touring-1000,7/1/2003 0:00,,Current,Touring Bikes
+563,"Touring-1000 Yellow, 54",1481.9379,TRUE,Yellow,2384.07,54,T,1430.442,H,U,Touring-1000,7/1/2003 0:00,,Current,Touring Bikes
+564,"Touring-1000 Yellow, 60",1481.9379,TRUE,Yellow,2384.07,60,T,1430.442,H,U,Touring-1000,7/1/2003 0:00,,Current,Touring Bikes
+565,"Touring-3000 Blue, 54",461.4448,TRUE,Blue,742.35,54,T,445.41,L,U,Touring-3000,7/1/2003 0:00,,Current,Touring Bikes
+566,"Touring-3000 Blue, 58",461.4448,TRUE,Blue,742.35,58,T,445.41,L,U,Touring-3000,7/1/2003 0:00,,Current,Touring Bikes
+567,"Touring-3000 Blue, 62",461.4448,TRUE,Blue,742.35,62,T,445.41,L,U,Touring-3000,7/1/2003 0:00,,Current,Touring Bikes
+568,"Touring-3000 Yellow, 44",461.4448,TRUE,Yellow,742.35,44,T,445.41,L,U,Touring-3000,7/1/2003 0:00,,Current,Touring Bikes
+569,"Touring-3000 Yellow, 50",461.4448,TRUE,Yellow,742.35,50,T,445.41,L,U,Touring-3000,7/1/2003 0:00,,Current,Touring Bikes
+570,"Touring-3000 Yellow, 54",461.4448,TRUE,Yellow,742.35,54,T,445.41,L,U,Touring-3000,7/1/2003 0:00,,Current,Touring Bikes
+571,"Touring-3000 Yellow, 58",461.4448,TRUE,Yellow,742.35,58,T,445.41,L,U,Touring-3000,7/1/2003 0:00,,Current,Touring Bikes
+572,"Touring-3000 Yellow, 62",461.4448,TRUE,Yellow,742.35,62,T,445.41,L,U,Touring-3000,7/1/2003 0:00,,Current,Touring Bikes
+573,"Touring-1000 Blue, 46",1481.9379,TRUE,Blue,2384.07,46,T,1430.442,H,U,Touring-1000,7/1/2003 0:00,,Current,Touring Bikes
+574,"Touring-1000 Blue, 50",1481.9379,TRUE,Blue,2384.07,50,T,1430.442,H,U,Touring-1000,7/1/2003 0:00,,Current,Touring Bikes
+575,"Touring-1000 Blue, 54",1481.9379,TRUE,Blue,2384.07,54,T,1430.442,H,U,Touring-1000,7/1/2003 0:00,,Current,Touring Bikes
+576,"Touring-1000 Blue, 60",1481.9379,TRUE,Blue,2384.07,60,T,1430.442,H,U,Touring-1000,7/1/2003 0:00,,Current,Touring Bikes
+577,"Touring-2000 Blue, 46",755.1508,TRUE,Blue,1214.85,46,T,728.91,M,U,Touring-2000,7/1/2003 0:00,,Current,Touring Bikes
+578,"Touring-2000 Blue, 50",755.1508,TRUE,Blue,1214.85,50,T,728.91,M,U,Touring-2000,7/1/2003 0:00,,Current,Touring Bikes
+579,"Touring-2000 Blue, 54",755.1508,TRUE,Blue,1214.85,54,T,728.91,M,U,Touring-2000,7/1/2003 0:00,,Current,Touring Bikes
+580,"Road-350-W Yellow, 40",1082.51,TRUE,Yellow,1700.99,40,R,1020.594,M,W,Road-350-W,7/1/2003 0:00,,Current,Road Bikes
+581,"Road-350-W Yellow, 42",1082.51,TRUE,Yellow,1700.99,42,R,1020.594,M,W,Road-350-W,7/1/2003 0:00,,Current,Road Bikes
+582,"Road-350-W Yellow, 44",1082.51,TRUE,Yellow,1700.99,44,R,1020.594,M,W,Road-350-W,7/1/2003 0:00,,Current,Road Bikes
+583,"Road-350-W Yellow, 48",1082.51,TRUE,Yellow,1700.99,48,R,1020.594,M,W,Road-350-W,7/1/2003 0:00,,Current,Road Bikes
+584,"Road-750 Black, 58",343.6496,TRUE,Black,539.99,58,R,323.994,L,U,Road-750,7/1/2003 0:00,,Current,Road Bikes
+585,"Touring-3000 Blue, 44",461.4448,TRUE,Blue,742.35,44,T,445.41,L,U,Touring-3000,7/1/2003 0:00,,Current,Touring Bikes
+586,"Touring-3000 Blue, 50",461.4448,TRUE,Blue,742.35,50,T,445.41,L,U,Touring-3000,7/1/2003 0:00,,Current,Touring Bikes
+587,"Mountain-400-W Silver, 38",419.7784,TRUE,Silver,769.49,38,M,461.694,M,W,Mountain-400-W,7/1/2003 0:00,,Current,Mountain Bikes
+588,"Mountain-400-W Silver, 40",419.7784,TRUE,Silver,769.49,40,M,461.694,M,W,Mountain-400-W,7/1/2003 0:00,,Current,Mountain Bikes
+589,"Mountain-400-W Silver, 42",419.7784,TRUE,Silver,769.49,42,M,461.694,M,W,Mountain-400-W,7/1/2003 0:00,,Current,Mountain Bikes
+590,"Mountain-400-W Silver, 46",419.7784,TRUE,Silver,769.49,46,M,461.694,M,W,Mountain-400-W,7/1/2003 0:00,,Current,Mountain Bikes
+591,"Mountain-500 Silver, 40",308.2179,TRUE,Silver,564.99,40,M,338.994,L,U,Mountain-500,7/1/2003 0:00,,Current,Mountain Bikes
+592,"Mountain-500 Silver, 42",308.2179,TRUE,Silver,564.99,42,M,338.994,L,U,Mountain-500,7/1/2003 0:00,,Current,Mountain Bikes
+593,"Mountain-500 Silver, 44",308.2179,TRUE,Silver,564.99,44,M,338.994,L,U,Mountain-500,7/1/2003 0:00,,Current,Mountain Bikes
+594,"Mountain-500 Silver, 48",308.2179,TRUE,Silver,564.99,48,M,338.994,L,U,Mountain-500,7/1/2003 0:00,,Current,Mountain Bikes
+595,"Mountain-500 Silver, 52",308.2179,TRUE,Silver,564.99,52,M,338.994,L,U,Mountain-500,7/1/2003 0:00,,Current,Mountain Bikes
+596,"Mountain-500 Black, 40",294.5797,TRUE,Black,539.99,40,M,323.994,L,U,Mountain-500,7/1/2003 0:00,,Current,Mountain Bikes
+597,"Mountain-500 Black, 42",294.5797,TRUE,Black,539.99,42,M,323.994,L,U,Mountain-500,7/1/2003 0:00,,Current,Mountain Bikes
+598,"Mountain-500 Black, 44",294.5797,TRUE,Black,539.99,44,M,323.994,L,U,Mountain-500,7/1/2003 0:00,,Current,Mountain Bikes
+599,"Mountain-500 Black, 48",294.5797,TRUE,Black,539.99,48,M,323.994,L,U,Mountain-500,7/1/2003 0:00,,Current,Mountain Bikes
+600,"Mountain-500 Black, 52",294.5797,TRUE,Black,539.99,52,M,323.994,L,U,Mountain-500,7/1/2003 0:00,,Current,Mountain Bikes
+601,LL Bottom Bracket,23.9716,TRUE,NA,53.99,,,32.394,L,,LL Bottom Bracket,7/1/2003 0:00,,Current,Bottom Brackets
+602,ML Bottom Bracket,44.9506,TRUE,NA,101.24,,,60.744,M,,ML Bottom Bracket,7/1/2003 0:00,,Current,Bottom Brackets
+603,HL Bottom Bracket,53.9416,TRUE,NA,121.49,,,72.894,H,,HL Bottom Bracket,7/1/2003 0:00,,Current,Bottom Brackets
+604,"Road-750 Black, 44",343.6496,TRUE,Black,539.99,44,R,323.994,L,U,Road-750,7/1/2003 0:00,,Current,Road Bikes
+605,"Road-750 Black, 48",343.6496,TRUE,Black,539.99,48,R,323.994,L,U,Road-750,7/1/2003 0:00,,Current,Road Bikes
+606,"Road-750 Black, 52",343.6496,TRUE,Black,539.99,52,R,323.994,L,U,Road-750,7/1/2003 0:00,,Current,Road Bikes
