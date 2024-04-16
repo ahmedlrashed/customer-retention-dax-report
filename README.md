@@ -1,6 +1,6 @@
 ![](img/image0.png)
 
-## TLDR PowerBI Dashboard [link]([https://app.powerbi.com/groups/me/reports/ac167198-815a-4753-ae73-669a4913ed77/ReportSectionfc58e66b54837de74490?experience=power-bi](https://app.powerbi.com/view?r=eyJrIjoiZGIwMzg3MjgtZjg1Yy00OWUwLWE3Y2YtNzc0NjUzNWQyZDJjIiwidCI6ImUzYjYyMmQ1LWNhOTQtNDVmYy05OGM4LTcyNGI4MTczOTMxMCJ9&pageName=ReportSectionfc58e66b54837de74490))
+## TLDR PowerBI Dashboard [link](https://app.powerbi.com/view?r=eyJrIjoiZGIwMzg3MjgtZjg1Yy00OWUwLWE3Y2YtNzc0NjUzNWQyZDJjIiwidCI6ImUzYjYyMmQ1LWNhOTQtNDVmYy05OGM4LTcyNGI4MTczOTMxMCJ9&pageName=ReportSectionfc58e66b54837de74490)
 
 **MISSION:** Use the data contained within the sent Excel file to create
 a Power BI data model using industry best practices to solve our
