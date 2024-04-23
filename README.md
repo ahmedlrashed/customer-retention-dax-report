@@ -7,9 +7,6 @@ report.
 
 -   Recreate the legacy report from the Excel file screenshot.
 
--   We will evaluate your understanding of the DAX language and modeling
-    in creating these metrics.
-
 -   Consider that the client will add additional data and therefore
     needs time-intelligence calculations.
 
