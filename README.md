@@ -1,7 +1,5 @@
 ![](img/image0.png)
 
-## TLDR PowerBI Dashboard [link](https://app.powerbi.com/view?r=eyJrIjoiZGIwMzg3MjgtZjg1Yy00OWUwLWE3Y2YtNzc0NjUzNWQyZDJjIiwidCI6ImUzYjYyMmQ1LWNhOTQtNDVmYy05OGM4LTcyNGI4MTczOTMxMCJ9&pageName=ReportSectionfc58e66b54837de74490)
-
 **MISSION:** Use the data contained within the sent Excel file to create
 a Power BI data model using industry best practices to solve our
 simulated consulting project business challenge and to create a demo
@@ -42,6 +40,77 @@ We found several issues in the report upon exploring the data:
 > any given monthly purchase. So instead of counting repeat customers
 > from their **First month**, we count repeat customers for **Each
 > month.**
+```
+90D_Repeat_Customer_Cnt = 
+
+/* Capture Distinct CustomerKeys per row-context (month of year) */
+VAR CustomerList = VALUES( Sales[CustomerKey] )                             
+
+/* Add up items-per-invoice and invoice per customer so all "lines" are weighted to add up to 1 */
+VAR CustomerMonthlyOrderCount =                                             
+    CALCULATE(  
+        COUNTROWS(Sales)                                                    // Count number of sales rows
+        , ALLEXCEPT(Sales, Sales[CustomerYearMonth])                        // associated with each unique combination of CustomerKey & OrderYearMonth
+    )  
+
+/* Determine if this purchase was followed up by another within 90 days (1 means yes) */
+VAR RepeatCustomerFlag =                                                    
+    COUNTROWS(                                                              // Count number of rows
+        FILTER(                                                             // where we filter
+            CustomerList,                                                   // Distinct CustomerKeys
+            CALCULATE(                                                      // and calculate
+                COUNTROWS(Sales),                                           // the number of sales rows
+                FILTER(                                                     // where we filter
+                    ALLSELECTED('Sales'),                                   // AllSelected rows in Sales table
+                    'Sales'[OrderDate] > MIN('Sales'[OrderDate])            // such that current-row-OrderDate is > minimum-date (exclusive)
+                    && 'Sales'[OrderDate] <= MIN('Sales'[OrderDate]) + 90   // and current-row-OrderDate is >= minimum-date-right-shifted-90-days (inclusive)
+                )
+            )
+        )
+    )
+
+/* Calculate contribution of each partial-invoice by dividing RepeatFlag (0 or 1) by InvoiceCount; 2 becomes 0.5, 4 becomes 0.25, etc... */
+VAR RepeatCustomerCount = DIVIDE(RepeatCustomerFlag, CustomerMonthlyOrderCount, 0)       
+
+RETURN
+    RepeatCustomerCount
+```
+> For the 3 month calculation we use this modified measure:
+```
+3M_Repeat_Customer_Cnt = 
+
+/* Capture Distinct CustomerKeys per row-context (month of year) */
+VAR CustomerList = VALUES( Sales[CustomerKey] )                             
+
+/* Add up items-per-invoice and invoice per customer so all "lines" are weighted to add up to 1 */
+VAR CustomerMonthlyOrderCount =                                             
+    CALCULATE(  
+        COUNTROWS(Sales)                                                        // Count number of sales rows
+        , ALLEXCEPT(Sales, Sales[CustomerYearMonth])                            // associated with each unique combination of CustomerKey & OrderYearMonth
+    )  
+
+/* Determine if this purchase was followed up by another within 3 months (1 means yes) */
+VAR RepeatCustomerFlag =                                                    
+    COUNTROWS(                                                                  // Count number of rows
+        FILTER(                                                                 // where we filter
+            CustomerList,                                                       // Distinct CustomerKeys
+            CALCULATE(                                                          // and calculate
+                COUNTROWS(Sales),                                               // the number of sales rows
+                FILTER(                                                         // where we filter
+                    ALLSELECTED('Sales'),                                       // AllSelected rows in Sales table
+                    'Sales'[OrderDate] > EOMONTH(MIN(Sales[OrderDate]), 0 )     // such that current-row-OrderDate is > minimum-date-end-of-month (exclusive)
+                    && 'Sales'[OrderDate] <= EOMONTH(MIN(Sales[OrderDate]), 3 ) // and is <= minimum-date-end-of-month-right-shifted-3-months (inclusive)
+                )
+            ) > 0                                                               // where # of sales is greater than zero
+        )
+    )
+
+/* Calculate contribution of each partial-invoice by dividing RepeatFlag (0 or 1) by InvoiceCount; 2 becomes 0.5, 4 becomes 0.25, etc... */
+VAR RepeatCustomerCount = DIVIDE(RepeatCustomerFlag, CustomerMonthlyOrderCount, 0)       
+
+RETURN
+    RepeatCustomerCount
+```
 >
 > **Because of this, the updated report shows no repeat customers in
 > 2001 and 2002:**
